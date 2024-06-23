@@ -1,0 +1,7 @@
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\bin\Debug\NesnesizMarketUygulamasi.exe.config
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\bin\Debug\NesnesizMarketUygulamasi.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\bin\Debug\NesnesizMarketUygulamasi.pdb
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\obj\Debug\NesnesizMarketUygulamasi.csproj.AssemblyReference.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\obj\Debug\NesnesizMarketUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\obj\Debug\NesnesizMarketUygulamasi.exe
+C:\Users\nazurabi\Documents\Uygulamalar-Applications\GitHuba Yüklemelik\NesnesizMarketUygulamasi\NesnesizMarketUygulamasi\obj\Debug\NesnesizMarketUygulamasi.pdb
